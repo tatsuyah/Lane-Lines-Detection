@@ -1,5 +1,6 @@
 # Lane lines detection
 
+<img src="https://github.com/tatsuyah/Lane-Lines-Detection/blob/master/test_images_output/solidWhiteCurve.jpg" width="500px">
 
 ## **Overview** 
 Through this project you'll be able to detect lane lines on the road in images and videos by creating Computer Vision process pipeline. 
