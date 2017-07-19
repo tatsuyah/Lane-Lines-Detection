@@ -1,5 +1,11 @@
 # Lane lines detection
 
+**Original image**
+
+<img src="https://github.com/tatsuyah/Lane-Lines-Detection/blob/master/test_images/solidWhiteCurve.jpg" width="500px">
+
+**Annotated**
+
 <img src="https://github.com/tatsuyah/Lane-Lines-Detection/blob/master/test_images_output/solidWhiteCurve.jpg" width="500px">
 
 ## **Overview** 
